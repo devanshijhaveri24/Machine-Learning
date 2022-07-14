@@ -9,3 +9,7 @@ This repository includes different Machine Learning Algorithms:
 # Linear Regression
 It is a supervised learning algorithm which investigates the relationship between a dependent and independent variables. It is modelled using a straight line used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 The linear regression is done on the headbrain dataset taken from Kaggle.
+
+# Logistic Regression
+Logistic regression estimates the probability of an event occurring. eg: Will this person purchase an expensive bag or not? This would give a yes or no type answer. Hence, it gives a discrete or categorical outcome. It's results are in binary format and hence it makes the sigmoid "s" curve. 
+Logistic regression is done on two different datasets, SUV and Titanic, both taken from Kaggle.
